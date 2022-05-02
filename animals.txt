@@ -1,0 +1,12 @@
+A-1 Gary Giraffe 2 4 9 Herbivore
+A-12 Zoe Zebra 3 3 4 Herbivore
+A-19 Henry Hyena 5 2 8 Carnivore
+B-1 Oliver Ocelot 1 5 9 Carnivore
+B-6 Sally Saddleback-Tamarin 3 5 3 Omnivore
+B-17 Tomas Tapir 4 3 10 Herbivore
+C-4 Yanni Yak 4 2 10 Herbivore
+C-22 Camille Camel 2 5 10 Herbivore
+C-23 Fedora Red-Fox 6 4 9 Omnivore
+D-2 Anton Artic-Fox 3 3 8 Omnivore
+D-6 Mikail Musk-Ox 2 2 9 Herbivore
+D-11 Suri Harbour-Seal 5 4 5 Carnivore

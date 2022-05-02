@@ -1,0 +1,20 @@
+Healing List - 2022-04-13
+
+(A) African Savanna
+Gary Giraffe (health: 9) needs 2 units
+Zoe Zebra (health: 4) needs 1 units
+
+(B) Amazonian Jungle
+Oliver Ocelot (health: 9) needs 2 units
+Sally Saddleback Tamarin (health: 3) needs 1 units
+Tomas Tapir (health: 10) needs 1 units
+
+(C) Eurasian Wilds
+Fedora Red Fox (health: 9) needs 2 units
+
+(D) Frozen Tundra
+Anton Artic Fox (health: 8) needs 2 units
+Mikail Musk Ox (health: 9) needs 1 units
+Suri Harbour Seal (health: 5) needs 1 units
+
+Summary of Medicine: 22 units

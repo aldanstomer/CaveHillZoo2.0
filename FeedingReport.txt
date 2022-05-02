@@ -1,0 +1,11 @@
+Feeding Report - Wed Apr 13 13:53:07 AST 2022
+
+Animals Fed: 8
+OK: 5
+Deaths: 3
+
+Overfed
+A-1 Gary Giraffe || Original Hunger Status: 4, Food Given: 3 Hay
+D-2 Anton Artic Fox || Original Hunger Status: 3, Food Given: 3 Hay
+D-6 Mikail Musk Ox || Original Hunger Status: 2, Food Given: 4 Hay
+

@@ -1,0 +1,29 @@
+Feeding List - Wed Apr 13 13:52:29 AST 2022
+
+(A) African Savanna
+Gary Giraffe	3 Hay
+Zoe Zebra	1 Hay
+
+Food Summary
+4 Hay
+
+(B) Amazonian Jungle
+Tomas Tapir	2 Hay
+
+Food Summary
+2 Hay
+
+(C) Eurasian Wilds
+Yanni Yak	3 Hay
+Fedora Red Fox	1 Hay
+
+Food Summary
+4 Hay
+
+(D) Frozen Tundra
+Yanni Yak	3 Hay
+Fedora Red Fox	1 Hay
+
+Food Summary
+4 Hay
+

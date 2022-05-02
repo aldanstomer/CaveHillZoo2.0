@@ -1,0 +1,11 @@
+Healing Report - Wed Apr 13 13:53:17 AST 2022
+
+Animals Medicated: 9
+OK: 6
+Deaths: 3
+
+Overdosed
+A-1 Gary Giraffe || Original Health Status: 9, Medicine Given: 2 Herbivore
+B-17 Tomas Tapir || Original Health Status: 10, Medicine Given: 1 Herbivore
+D-6 Mikail Musk Ox || Original Health Status: 9, Medicine Given: 2 Herbivore
+
